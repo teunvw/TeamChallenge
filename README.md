@@ -18,5 +18,5 @@ Ik heb honger.
 Ik ga koffie halen.
 Ciao
 
-Ik wil ook koffie :(.
+Ik wil ook koffie :(. 
 
