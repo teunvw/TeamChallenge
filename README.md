@@ -8,4 +8,13 @@ Cyrano: Spätzle
 
 
 
+
 Lotte: Knödel 
+
+
+Eens even kijken of dit werkt.
+Dit monstertje houdt van jachtschotel, steak, eigenlijk alle soorten eten...
+Ik heb honger.
+Ik ga koffie halen.
+Ciao
+
