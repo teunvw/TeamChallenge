@@ -5,3 +5,4 @@ Hier kun je vinden hoe github werkt: https://guides.github.com/activities/hello-
 Maak als oefening allemaal een branch aan waarin je deze readme aanpast. Zet er bijvoorbeeld je lievelingseten in!
 
 Cyrano: Spätzle
+Lotte: Knödel
